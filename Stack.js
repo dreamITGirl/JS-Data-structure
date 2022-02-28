@@ -12,8 +12,9 @@ class Stack {
         if (this.isEmpty()) {
             return undefined 
         }
-        const item = this.items[this.count-1]
         this.count--
+        const item = this.items[this.count]
+        delete this.items[this.count]
         return item
     //    return this.items.pop()
     }
