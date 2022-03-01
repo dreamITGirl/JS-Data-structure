@@ -4,4 +4,6 @@
 
 ## 目录
 
-1. [栈](https://github.com/dreamITGirl/JS-Data-structure/blob/main/Stack.js)
+1. [栈](https://github.com/dreamITGirl/JS-Data-structure/blob/main/JS/Stack.js)
+2. [队列](https://github.com/dreamITGirl/JS-Data-structure/blob/main/JS/Queue.js)
+3. [双端队列](https://github.com/dreamITGirl/JS-Data-structure/blob/main/JS/Deque.js)
