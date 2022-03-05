@@ -7,3 +7,6 @@
 1. [栈](https://github.com/dreamITGirl/JS-Data-structure/blob/main/JS/Stack.js)
 2. [队列](https://github.com/dreamITGirl/JS-Data-structure/blob/main/JS/Queue.js)
 3. [双端队列](https://github.com/dreamITGirl/JS-Data-structure/blob/main/JS/Deque.js)
+4. [链表](https://github.com/dreamITGirl/JS-Data-structure/blob/main/JS/Linklist.js)
+5. [双向链表](https://github.com/dreamITGirl/JS-Data-structure/blob/main/JS/DoubleLinkList.js)
+6. [循环链表](https://github.com/dreamITGirl/JS-Data-structure/blob/main/JS/CircleLinkList.js)
